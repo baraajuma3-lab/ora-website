@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  background-color: #F6F4F0;
+}
+
+button {
+  outline: none;
+}
